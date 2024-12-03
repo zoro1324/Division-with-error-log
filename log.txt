@@ -1,0 +1,2 @@
+At 2024-12-03 22:12:01.572551 for the inputs DIVIDENT = 3.0 and DIVISOR = Hi, This error has occoured : could not convert string to float: 'Hi' 
+At 2024-12-03 22:12:12.406886 for the inputs DIVIDENT = 9.0 and DIVISOR = 0.0, This error has occoured : float division by zero 
